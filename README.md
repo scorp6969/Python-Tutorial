@@ -7,7 +7,7 @@ List of chapters
 5. input
 6. ifStatements
 7. loop
-8. 
+8. list
 9. 
 10. 
 11. 
