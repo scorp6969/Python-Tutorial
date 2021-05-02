@@ -8,8 +8,8 @@ List of chapters
 6. ifStatements
 7. loop
 8. list
-9. 
-10. 
+9. tuples
+10. set
 11. 
 12. 
 13. 
