@@ -12,7 +12,7 @@ List of chapters
 10. set
 11. dictionary
 12. functions
-13. 
+13. random module
 14. 
 15. 
 16. 
