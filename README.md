@@ -10,8 +10,8 @@ List of chapters
 8. list
 9. tuples
 10. set
-11. 
-12. 
+11. dictionary
+12. functions
 13. 
 14. 
 15. 
