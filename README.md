@@ -1,6 +1,6 @@
 List of chapters
 
-1. helloWorld
+1. helloWorld + .format()
 2. variable
 3. typecast
 4. math
